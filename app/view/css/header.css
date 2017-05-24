@@ -1,0 +1,35 @@
+body{
+  margin:0;
+}
+
+.top{
+  overflow: hidden;
+  background-color: #333;
+}
+
+.top_navigation a{
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.top_navigation a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.top .header div{
+  float: left;
+  color: #fff;
+  font-family: 'Exo', sans-serif;
+  font-weight: normal;
+  font-size: 35px;
+}
+
+.top .header div span{
+  color: #5379fa;
+}
